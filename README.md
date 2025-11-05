@@ -1,7 +1,8 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Peter Vitale
+I’m a marine biologist with a passion for ocean life, data visualization, and science communication. I studied Marine Biology at UC Santa Cruz and have worked in environmental education, field research, and data analysis. I enjoy finding creative ways to connect people with the natural world and make environmental data more engaging and accessible.
 <!--
 **petervitale910/petervitale910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="2000" height="2000" alt="octocat-1762371212791" src="https://github.com/user-attachments/assets/fe5fe01b-ac90-482f-bf31-2282db6baf7d" />
 
 Here are some ideas to get you started:
 
